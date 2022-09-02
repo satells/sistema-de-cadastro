@@ -9,5 +9,6 @@ Para rodar e baixar do GitHub este projeto em sua máquina, por favor digite:
 
 
 ```
-npm install react
+node app.js
+
 ```
